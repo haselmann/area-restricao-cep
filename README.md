@@ -1,2 +1,2 @@
 # area-restricao-cep
- Favelas catalogadas por cep
+Este projeto buscou buscar o CEP das favelas e areas de restrição indicadas pelos Correios.
